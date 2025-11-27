@@ -18,7 +18,6 @@
 
 ## 📊 GitHub Analytics & Score
 
-## The "Rank" (S/A/B/C) on the right card is your official calculated GitHub Score.
 
 ### ⚙️ Overall Stats & Rank
 <p align="center">
@@ -29,9 +28,10 @@
 </p>
 
 ### 🔥 Contribution Streak
+### 🔥 Contribution Streak
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthakkeche&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Sarthakkeche&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>

@@ -1,4 +1,3 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Sarthak Anil Keche</h1>
 <h3 align="center">IT Engineer | Java & MERN Stack Developer | Problem Solver</h3>
 
@@ -10,27 +9,21 @@
 </p>
 
 <p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=flat" alt="profile views" />
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat" alt="followers" />
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Sarthakkeche&label=Profile%20Views&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sarthakkeche?label=Followers&style=flat&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Sarthakkeche?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="stars" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Bachelor of Engineering (Information Technology)**  
-  D. Y. Patil College of Engineering, Akurdi – *Nov 2022 – Present*
+- 🎓 **Bachelor of Engineering (Information Technology)** D. Y. Patil College of Engineering, Akurdi – *Nov 2022 – Present*
 
-- 💼 **Full Stack Developer (Freelance) – IJRWS**  
-  Built a bespoke **OJS 3.5 theme plugin**, converting complex React UI into PHP + Smarty templates,  
+- 💼 **Full Stack Developer (Freelance) – IJRWS** Built a bespoke **OJS 3.5 theme plugin**, converting complex React UI into PHP + Smarty templates,  
   and handled **deployment, HTTP 403/500 debugging, and server configuration** on Hostinger.
 
-- 💼 **Full Stack Web Developer Intern – DYPCOE**  
-  Developed **QuickFix**, a QR-based complaint management web app for non-functional classroom devices,  
+- 💼 **Full Stack Web Developer Intern – DYPCOE** Developed **QuickFix**, a QR-based complaint management web app for non-functional classroom devices,  
   improving issue tracking and admin resolution workflows.
 
 - 💡 I love turning **real-world problems** into **robust, scalable web applications** using **MERN** and **Java**.
@@ -90,7 +83,7 @@
 
 ## 🏗️ Experience
 
-### 🔹 IJRWS – Full Stack Developer (Freelancing)
+### 🔹 IJRWS – Full Stack Developer (Freelance)
 `July 2025 – Nov 2025`
 - Built a **custom OJS 3.5 theme plugin** (`IjrwsThemePlugin`) for a research journal platform.  
 - Translated a **React-based UI** into native **PHP + Smarty templates** for smooth integration.  
@@ -106,10 +99,8 @@
 
 ## 📌 Featured Projects
 
-> 🔗 Replace `https://ijrws.vercel.app` with your actual GitHub/hosted links.
-
 ### 📰 Academic Research Paper Submission – MERN
-- Full-stack **research paper publication platform** using **MERN**.
+- Full-stack **research paper publication platform** using **MERN** stack.
 - Features: **Author submissions, admin review system, publication workflow**.
 - Focus on clean UI, secure access, and role-based flows.  
 - **Repo / Live:** [View Project](https://ijrws.vercel.app)
@@ -134,33 +125,23 @@
 
 ## 🎓 Certifications
 
-- ✅ Web Development – **PW Skills**  
-- ✅ Java Programming – **PW Skills**  
-- ✅ AWS Cloud Fundamentals – **AWS Academy**  
-- ✅ Postman Fundamentals – **Let’s Upgrade**
-
-> 📂 Add certificate links here:
-> - [Web Development Certificate](https://drive.google.com/file/d/1dq3FyqcUZ6juOByzarz3DdwbR5fVfi9D/view?usp=drive_link)
-> - [Java Programming Certificate](https://drive.google.com/file/d/1yDULVxjBdR9ANag-E231Mbh94jyulBfk/view?usp=sharing)
-> - [AWS Cloud Fundamentals](https://drive.google.com/file/d/1Kri8S78WZNN6wUfhIjmiPyJfRLDbSGSu/view?usp=drive_link)
-> - [Postman Fundamentals](https://drive.google.com/file/d/1gmdjF3ukZ8d3Y0Zq4r7vSo07T_lIJ_xn/view?usp=drive_link)
+| Certification | Provider | Link |
+| :--- | :--- | :--- |
+| **Web Development** | PW Skills | [View Certificate](https://drive.google.com/file/d/1dq3FyqcUZ6juOByzarz3DdwbR5fVfi9D/view?usp=drive_link) |
+| **Java Programming** | PW Skills | [View Certificate](https://drive.google.com/file/d/1yDULVxjBdR9ANag-E231Mbh94jyulBfk/view?usp=sharing) |
+| **AWS Cloud Fundamentals** | AWS Academy | [View Certificate](https://drive.google.com/file/d/1Kri8S78WZNN6wUfhIjmiPyJfRLDbSGSu/view?usp=drive_link) |
+| **Postman Fundamentals** | Let's Upgrade | [View Certificate](https://drive.google.com/file/d/1gmdjF3ukZ8d3Y0Zq4r7vSo07T_lIJ_xn/view?usp=drive_link) |
 
 ---
 
 ## 🏅 Extra-Curricular & Activities
 
-- ex-**ITESA Media Member**  
-- Participated in **Aavishkar (College Level)**  
-- **SIH (Smart India Hackathon) – College Level** participation  
-- **Internshala Student Partner**  
-- Volunteering in college tech and cultural events  
+- ex-**ITESA Media Member** - Participated in **Aavishkar (College Level)** - **SIH (Smart India Hackathon) – College Level** participation  
+- **Internshala Student Partner** - Volunteering in college tech and cultural events  
 
 ---
 
-## 📊 GitHub Analytics & “Score”
-
-> ✨ These cards automatically calculate your **GitHub activity score** (commits, PRs, issues, stars, etc.).  
-> Just change `YOUR_GITHUB_USERNAME` to your actual username.
+## 📊 GitHub Analytics & Score
 
 ### ⚙️ Overall GitHub Stats
 <p align="center">
@@ -178,7 +159,7 @@
   />
 </p>
 
-### 🧮 Top Languages (Code Frequency)
+### 🧮 Top Languages
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkeche&layout=compact&theme=tokyonight&langs_count=8"
@@ -189,16 +170,8 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Sarthakkeche&theme=tokyonight&margin-w=10&margin-h=10"
+    src="https://github-profile-trophy.vercel.app/?username=Sarthakkeche&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true"
     alt="GitHub Trophies"
-  />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakkeche&theme=tokyo-night"
-    alt="GitHub Activity Graph"
   />
 </p>
 

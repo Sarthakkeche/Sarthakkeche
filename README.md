@@ -1,59 +1,76 @@
-<h1 align="center">Hi there, I'm Sarthak Keche 👋</h1>
-<h3 align="center">A Full-Stack Developer, UI/UX Designer, and Tech Enthusiast 🚀</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkeche&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkeche" /> </p>
+# Hi there, I'm Sarthak Keche! 👋
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakkeche" alt="sarthakkeche" /></a>
-</p>
+### 🚀 Full Stack Developer | Java Enthusiast | Cloud Learner
 
-[span_0](start_span)I'm an innovative and results-driven BE IT student with expertise in UI/UX design and full-stack development (MERN)[span_0](end_span). [span_1](start_span)I specialize in creating dynamic, user-friendly applications and enjoy solving complex problems effectively[span_1](end_span). [span_2](start_span)I'm passionate about building impactful solutions and contributing value to forward-thinking organizations[span_2](end_span).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:kechesarthak412@gmail.com)
 
-- 👨‍💻 Currently working on enhancing my **Full-Stack development** skills.
-- 🌱 Learning and mastering **Data Structures & Algorithms (DSA) with Java**.
-- ☁️ Exploring cloud technologies with **AWS**.
-- 📫 How to reach me: **kechesarthak412@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://sarthak-keche-portfolio.vercel.app/) (You can link your portfolio/resume PDF here)
+</div>
 
 ---
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/sarthak-keche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-keche" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
+
+I am a highly motivated **IT Engineering Graduate** from **D.Y. Patil College of Engineering, Akurdi** (CGPA 7.5). I specialize in building scalable web applications using the **MERN Stack** and **Java**.
+
+* 🔭 I’m currently working on **Academic Research Platforms** and **OJS Plugin Development**.
+* 🌱 I’m currently learning **AWS Cloud Architecture** and **System Design**.
+* 💡 I’m looking to apply my skills in the **Automotive & Energy sectors** to drive digital innovation.
+* 🎓 **Certifications:** Web Development (PW Skills), AWS Cloud Fundamentals.
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Technical Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,mysql,java,aws,bootstrap,tailwind,figma,git,github,postman,vscode,wordpress" />
-  </a>
-</p>
+<div align="center">
 
----
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
+| **Tools & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![OJS](https://img.shields.io/badge/OJS-PKP-blue?style=flat) |
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakkeche&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sarthakkeche top languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakkeche&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sarthakkeche github stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=sarthakkeche&theme=tokyonight" alt="sarthakkeche streak" />
-</p>
+</div>
 
 ---
 
-### 🚀 My Projects
+## 💼 Experience & Projects
 
-| Project Name                                               | Description                                                                                                                                                                            | Tech Stack                         |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| **FarmRev - Smart Agriculture Platform** | A platform connecting Indian farmers with buyers for transparent crop trading. [span_3](start_span)Features role-based dashboards and a crop listing/filtering system[span_3](end_span).                             | MERN Stack, Tailwind CSS           |
-| **International Journal of Research Welfare Society (IJRSW)** | A full-stack application for publishing research papers. [span_4](start_span)Includes features for author submissions, admin reviews, and a paper format converter[span_4](end_span).                                | MERN Stack                         |
-| **ICCSS 2025 Conference Website** | A dynamic and responsive website for the International Conference on CyberTech & Smart Systems. [span_5](start_span)[span_6](start_span)Provides event info, schedules, and speaker details with a focus on a mobile-first UI[span_5](end_span)[span_6](end_span). | React.js, Tailwind CSS             |
+### 🏢 **Professional Experience**
+* **Full Stack Developer (Freelance) @ IJRWS** *(July 2025 - Nov 2025)*
+    * Engineered a bespoke **OJS 3.5 Theme Plugin** using PHP & Smarty.
+    * Managed server deployment on Hostinger, resolving HTTP 403/500 errors and optimizing file permissions.
+* **Full Stack Intern @ DYPCOE** *(Dec 2024 - Feb 2025)*
+    * Developed **"QuickFix"**, a QR-based classroom maintenance reporting app.
+    * Streamlined complaint logging for college administration.
+
+### 🚀 **Featured Projects**
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **IJRWS Journal Platform** | `MERN` `AWS S3` | A comprehensive research paper publication platform with admin workflows, unique paper tracking, and automated emails. |
+| **FarmRev** | `MERN` `Auth` | Smart agriculture platform connecting farmers and buyers with role-based dashboards and transparent trading. |
+| **Mini CRM** | `React` `Node` | A centralized dashboard for managing customer relationships, tracking sales leads, and monitoring business opportunities. |
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=radical&count_private=true)](https://github.com/Sarthakkeche)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkeche&layout=compact&theme=radical)](https://github.com/Sarthakkeche)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarthakkeche&style=flat-square&color=blue" alt=""/>
+</div>

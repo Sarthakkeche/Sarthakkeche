@@ -27,14 +27,8 @@
   />
 </p>
 
-### 🔥 Contribution Streak
-### 🔥 Contribution Streak
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sarthakkeche&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+
+
 
 ### 🧮 Top Languages
 <p align="center">

@@ -16,6 +16,44 @@
 
 ---
 
+## 📊 GitHub Analytics & Score
+
+## The "Rank" (S/A/B/C) on the right card is your official calculated GitHub Score.
+
+### ⚙️ Overall Stats & Rank
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthakkeche&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+### 🧮 Top Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkeche&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sarthakkeche&theme=tokyonight&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 **Bachelor of Engineering (Information Technology)** D. Y. Patil College of Engineering, Akurdi – *Nov 2022 – Present*
@@ -140,44 +178,6 @@
 - **Internshala Student Partner** - Volunteering in college tech and cultural events  
 
 ---
-
-## 📊 GitHub Analytics & Score
-
-## 📊 GitHub Analytics & Score
-
-> These cards update automatically. The "Rank" (S/A/B/C) is your calculated GitHub Score.
-
-### ⚙️ Overall GitHub Stats & Rank
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthakkeche&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-### 🧮 Top Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkeche&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Sarthakkeche&theme=tokyonight&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
 
 ## 🤝 Let’s Connect
 

@@ -115,7 +115,7 @@
 ### ⚙️ Overall Stats
 <p align="center">
   <img
-    src="https://my-stats-lime.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://my-stats-lime.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=tokyonight&hide_border=true"
     alt="Sarthak's GitHub Stats"
   />
 </p>

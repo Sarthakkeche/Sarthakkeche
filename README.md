@@ -1,70 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sarthak Anil Keche</h1>
-<h3 align="center">IT Engineer | Java & MERN Stack Developer | Problem Solver</h3>
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                        PROFILE HEADER                           -->
+<!-- ──────────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sarthak+Anil+Keche;IT+Engineer+%7C+Java+%26+MERN+Stack+Developer;Full+Stack+Developer+%7C+Problem+Solver;I+love+building+end-to-end+solutions+🚀" alt="Typing SVG" />
+</p>
+
+<h1 align="center">✨ Welcome to My GitHub Universe ✨</h1>
 
 <p align="center">
   <em>
-    Highly motivated IT Engineering student at D. Y. Patil College of Engineering, Akurdi (CGPA: 7.53), 
-    building end-to-end web solutions with Java, Data Structures, and Full Stack development.
+    Highly motivated IT Engineering student at D. Y. Patil College of Engineering, Akurdi (CGPA: 7.53),
+    building end-to-end web solutions with Java, MERN, and solid Data Structures.
   </em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthakkeche&label=Profile%20Views&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Sarthakkeche?label=Followers&style=flat&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Sarthakkeche?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Sarthakkeche&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sarthakkeche?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Sarthakkeche?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="stars" />
+</p>
+
+<!-- Decorative gradient line -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Code%20%26%20Coffee%20Everyday-1f2933?style=flat-square" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics & Score
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                         ABOUT ME                                -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
+## 👨‍💻 About Me
 
-### ⚙️ Overall Stats & Rank
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+- 🎓 **Bachelor of Engineering (Information Technology)**  
+  D. Y. Patil College of Engineering, Akurdi – *Nov 2022 – Present*
 
-
-
-### 🧮 Top Languages
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkeche&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Sarthakkeche&theme=tokyonight&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 **Bachelor of Engineering (Information Technology)** D. Y. Patil College of Engineering, Akurdi – *Nov 2022 – Present*
-
-- 💼 **Full Stack Developer (Freelance) – IJRWS** Built a bespoke **OJS 3.5 theme plugin**, converting complex React UI into PHP + Smarty templates,  
+- 💼 **Full Stack Developer (Freelance) – IJRWS**  
+  Built a bespoke **OJS 3.5 theme plugin**, converting complex React UI into PHP + Smarty templates,  
   and handled **deployment, HTTP 403/500 debugging, and server configuration** on Hostinger.
 
-- 💼 **Full Stack Web Developer Intern – DYPCOE** Developed **QuickFix**, a QR-based complaint management web app for non-functional classroom devices,  
+- 💼 **Full Stack Web Developer Intern – DYPCOE**  
+  Developed **QuickFix**, a QR-based complaint management web app for non-functional classroom devices,  
   improving issue tracking and admin resolution workflows.
 
 - 💡 I love turning **real-world problems** into **robust, scalable web applications** using **MERN** and **Java**.
 
 - 🎯 **Goal:** Trainee/Graduate Engineer role in **automotive / energy / tech** domains, focusing on backend, cloud, and scalable systems.
 
-- 📫 **Reach me at:** `kechesarthak412@gmail.com`  
-- 📱 **Phone:** `+91-8830286448`
+- 📫 **Drop a mail at:** `kechesarthak412@gmail.com`  
+- 📱 **Contact:** `+91-8830286448`
 
 ---
+
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                           TECH STACK                            -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
 ## 🧠 Tech Stack
 
@@ -112,21 +104,83 @@
 
 ---
 
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                         GITHUB STATS                            -->
+<!-- ──────────────────────────────────────────────────────────────── -->
+
+## 📊 GitHub Analytics & Score
+
+> ⚡ *All cards below are dynamic. If any card doesn’t load instantly, refresh once – services sometimes cache or rate-limit.*
+
+### ⚙️ Overall Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sarthakkeche&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Sarthakkeche&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+### 🧮 Top Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakkeche&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sarthakkeche&theme=tokyonight&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+### 📈 Activity Graph
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakkeche&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                          EXPERIENCE                             -->
+<!-- ──────────────────────────────────────────────────────────────── -->
+
 ## 🏗️ Experience
 
 ### 🔹 IJRWS – Full Stack Developer (Freelance)
 `July 2025 – Nov 2025`
+
 - Built a **custom OJS 3.5 theme plugin** (`IjrwsThemePlugin`) for a research journal platform.  
 - Translated a **React-based UI** into native **PHP + Smarty templates** for smooth integration.  
 - Deployed on **Hostinger**, fixed **HTTP 403/500** errors, optimized **file permissions** and **PHP configs** for stability.
 
+---
+
 ### 🔹 DYPCOE – Full Stack Web Developer (Internship)
 `Dec 2024 – Feb 2025`
+
 - Developed **QuickFix**, a web app where teachers scan **QR codes** to report non-functional electronic devices.  
 - Streamlined **complaint logging and tracking**, improving resolution efficiency.  
 - Worked on **UI/UX, database design, and backend logic** in a collaborative team environment.
 
 ---
+
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                          PROJECTS                               -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
 ## 📌 Featured Projects
 
@@ -134,7 +188,7 @@
 - Full-stack **research paper publication platform** using **MERN** stack.
 - Features: **Author submissions, admin review system, publication workflow**.
 - Focus on clean UI, secure access, and role-based flows.  
-- **Repo / Live:** [View Project](https://ijrws.vercel.app)
+- **Repo / Live:** 👉 [View Project](https://ijrws.vercel.app)
 
 ---
 
@@ -142,7 +196,7 @@
 - Connects **Indian farmers and buyers** for transparent crop trading.  
 - Implemented **user authentication** and **role-based dashboards** (Farmer vs Buyer).  
 - Farmers can list crops with **name, quantity, price, and description**.  
-- **Repo / Live:** [View Project](https://farm-rev-git-main-sarthakkeches-projects.vercel.app)
+- **Repo / Live:** 👉 [View Project](https://farm-rev-git-main-sarthakkeches-projects.vercel.app)
 
 ---
 
@@ -150,9 +204,13 @@
 - Full-stack CRM for managing **customers, leads, and opportunities**.  
 - Backend: Secure **RESTful API** with **Node.js/Express**.  
 - Frontend: **React.js** dashboard for tracking sales and business funnels.  
-- **Repo / Live:** [View Project](https://crm-one-sage.vercel.app)
+- **Repo / Live:** 👉 [View Project](https://crm-one-sage.vercel.app)
 
 ---
+
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                       CERTIFICATIONS                            -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
 ## 🎓 Certifications
 
@@ -165,12 +223,35 @@
 
 ---
 
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                     EXTRA-CURRICULAR                            -->
+<!-- ──────────────────────────────────────────────────────────────── -->
+
 ## 🏅 Extra-Curricular & Activities
 
-- ex-**ITESA Media Member** - Participated in **Aavishkar (College Level)** - **SIH (Smart India Hackathon) – College Level** participation  
-- **Internshala Student Partner** - Volunteering in college tech and cultural events  
+- ex-**ITESA Media Member**  
+- Participated in **Aavishkar (College Level)**  
+- **SIH (Smart India Hackathon) – College Level** participation  
+- **Internshala Student Partner**  
+- Volunteering in **college tech and cultural events**  
 
 ---
+
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                        FUN SECTION                               -->
+<!-- ──────────────────────────────────────────────────────────────── -->
+
+## 🎯 Quick Snapshot
+
+- 🔭 Currently exploring: **Advanced MERN patterns, system design basics, and Java DSA**
+- 🌱 Learning next: **Microservices, AWS services in depth, and scalable backend architectures**
+- ⚡ Fun fact: I can spend hours debugging a bug and still enjoy the process 😄
+
+---
+
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!--                        CONNECT WITH ME                          -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
 ## 🤝 Let’s Connect
 

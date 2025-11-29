@@ -3,8 +3,12 @@
 <!-- ──────────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sarthak+Anil+Keche;IT+Engineer+%7C+Java+%26+MERN+Stack+Developer;Full+Stack+Developer+%7C+Problem+Solver;I+love+building+end-to-end+solutions+🚀" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sarthak+Anil+Keche;IT+Engineer+%7C+Java+%26+MERN+Stack+Developer;Full+Stack+Developer+%7C+Problem+Solver;I+love+building+end-to-end+solutions+🚀"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <h1 align="center">✨ Welcome to My GitHub Universe ✨</h1>
 
